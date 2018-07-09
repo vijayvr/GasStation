@@ -1,0 +1,4 @@
+
+%squid:RedundantThrowsDeclarationCheck"GRemove the redundant '!unknownSymbol!' thrown exception declaration(s).(í½Ã¾8–Æ¨µÅ,
+zsquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(®ò±8ÂÚñßÄ,
+¤squid:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µíÈâÿÿÿÿÿ8äÍİŞÄ,
